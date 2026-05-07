@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: null
 title: My link collection
 ---
 # My collection of links on various topics
