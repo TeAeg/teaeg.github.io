@@ -1,3 +1,3 @@
 # teaeg.github.io
 # Useful links:
-[Principia Softwarica:] (https://principia-softwarica.org)
+1. [Principia Softwarica:](https://principia-softwarica.org)
