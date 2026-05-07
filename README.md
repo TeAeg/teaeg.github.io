@@ -18,6 +18,7 @@
 
 ## Retrocomputing:
 1. [Old Vintage Computing Research](https://oldvcr.blogspot.com)
+2. [DOOM Black Book](https://fabiensanglard.net/gebbdoom)
 
 ## HP PA-RISC:
 1. [OpenPA](https://www.openpa.net)
