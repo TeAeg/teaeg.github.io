@@ -3,6 +3,7 @@
 1. [Hacker News](https://news.ycombinator.com)
 2. [Lobste.rs](https://lobste.rs)
 3. [Phrack](https://phrack.org/news)
+4. [The Hacker Crackdown](https://www.gutenberg.org/ebooks/101)
 
 ## UNIX:
 1. [Principia Softwarica](https://principia-softwarica.org)
