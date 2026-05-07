@@ -1,3 +1,7 @@
+---
+layout: default
+title: My link collection
+---
 # My collection of links on various topics
 ## Hacking:
 1. [Hacker News](https://news.ycombinator.com)
