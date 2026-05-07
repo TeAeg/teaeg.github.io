@@ -17,4 +17,5 @@
 ## Varia:
 1. [Basic Markdown syntax](https://www.markdownguide.org/basic-syntax)
 
-#### Last update: {{now}}
+<hr>
+##### Last update: {{today}}
