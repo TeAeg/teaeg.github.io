@@ -1,5 +1,4 @@
 ---
-layout: post
 title: My collection of links
 ---
 # My collection of links on various topics
