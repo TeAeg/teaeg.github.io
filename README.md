@@ -2,6 +2,7 @@
 ## Hacking:
 1. [Hacker News](https://news.ycombinator.com)
 2. [Lobste.rs](https://lobste.rs)
+3. [Phrack](https://phrack.org/news)
 
 ## UNIX:
 1. [Principia Softwarica](https://principia-softwarica.org)
