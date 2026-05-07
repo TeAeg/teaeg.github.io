@@ -18,9 +18,12 @@
 ## Retrocomputing:
 1. [Old Vintage Computing Research](https://oldvcr.blogspot.com)
 
-## PA-RISC:
+## HP PA-RISC:
 1. [OpenPA](https://www.openpa.net)
 2. [Linux on PA-RISC](https://parisc.docs.kernel.org)
+
+## Sun SPARC:
+1. [Sun System Handbook v3.4](https://dogemicrosystems.ca/pub/Sun/System_Handbook/Sun_syshbk_V3.4/index.html)
 
 ## Varia:
 1. [Markdown](https://daringfireball.net/projects/markdown)
