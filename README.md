@@ -1,6 +1,3 @@
----
-title: My collection of links
----
 # My collection of links on various topics
 ## Hacking:
 1. [Hacker News](https://news.ycombinator.com)
