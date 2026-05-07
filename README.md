@@ -12,6 +12,9 @@
 ## LISP:
 1. [Structure and Interpretation of Computer Programs](https://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/6515/sicp.zip/index.html)
 
+## FORTH:
+1. [Forth writes itself](https://ratfactor.com/forth/the_programming_language_that_writes_itself.html)
+
 ## Retrocomputing:
 1. [Old Vintage Computing Research](https://oldvcr.blogspot.com)
 
