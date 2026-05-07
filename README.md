@@ -6,6 +6,9 @@
 ## UNIX:
 1. [Principia Softwarica](https://principia-softwarica.org)
 
+## Retrocomputing:
+1. [Old Vintage Computing Research](https://oldvcr.blogspot.com)
+
 ## Varia:
 1. [Basic Markdown syntax](https://www.markdownguide.org/basic-syntax)
 
