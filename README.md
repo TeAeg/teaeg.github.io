@@ -18,6 +18,10 @@
 ## Retrocomputing:
 1. [Old Vintage Computing Research](https://oldvcr.blogspot.com)
 
+## PA-RISC:
+1. [OpenPA](https://www.openpa.net)
+2. [Linux on PA-RISC](https://parisc.docs.kernel.org)
+
 ## Varia:
 1. [Markdown](https://daringfireball.net/projects/markdown)
 2. [Basic Markdown syntax](https://www.markdownguide.org/basic-syntax)
