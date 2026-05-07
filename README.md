@@ -7,6 +7,7 @@
 
 ## UNIX:
 1. [Principia Softwarica](https://principia-softwarica.org)
+2. [Historical UNIX sources by Spinellis](https://github.com/dspinellis/unix-history-repo)
 
 ## LISP:
 1. [Structure and Interpretation of Computer Programs](https://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/6515/sicp.zip/index.html)
