@@ -12,6 +12,7 @@
 ## LISP:
 1. [Structure and Interpretation of Computer Programs](https://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/6515/sicp.zip/index.html)
 2. [Simply Scheme](https://people.eecs.berkeley.edu/~bh/ss-toc2.html)
+3. [The Roots of LISP](https://paulgraham.com/rootsoflisp.html)
 
 ## FORTH:
 1. [Forth writes itself](https://ratfactor.com/forth/the_programming_language_that_writes_itself.html)
@@ -26,6 +27,9 @@
 
 ## Sun SPARC:
 1. [Sun System Handbook v3.4](https://dogemicrosystems.ca/pub/Sun/System_Handbook/Sun_syshbk_V3.4/index.html)
+
+## JavaScript:
+1. [Douglas Crockford](https://www.crockford.com/javascript)
 
 ## Varia:
 1. [Markdown](https://daringfireball.net/projects/markdown)
