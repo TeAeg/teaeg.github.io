@@ -37,6 +37,9 @@
 ## JavaScript:
 1. [Douglas Crockford](https://www.crockford.com/javascript)
 
+## Statistics:
+1. [Information Theory, Inference, and Learning Algorithms](https://www.inference.org.uk/mackay/itila)
+
 ## Varia:
 1. [Markdown](https://daringfireball.net/projects/markdown)
 2. [Basic Markdown syntax](https://www.markdownguide.org/basic-syntax)
