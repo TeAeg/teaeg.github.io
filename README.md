@@ -5,6 +5,9 @@
 3. [Phrack](https://phrack.org/news)
 4. [The Hacker Crackdown](https://www.gutenberg.org/ebooks/101)
 
+## Computer Science:
+1. [Foundations of Computer Science](http://infolab.stanford.edu/~ullman/focs.html)
+
 ## UNIX:
 1. [Principia Softwarica](https://principia-softwarica.org)
 2. [Historical UNIX sources by Spinellis](https://github.com/dspinellis/unix-history-repo)
