@@ -4,6 +4,8 @@
 2. [Lobste.rs](https://lobste.rs)
 3. [Phrack](https://phrack.org/news)
 4. [The Hacker Crackdown](https://www.gutenberg.org/ebooks/101)
+5. [Virtually Fun](https://virtuallyfun.com)
+6. [OSnews](https://www.osnews.com)
 
 ## Computer Science:
 1. [Foundations of Computer Science](http://infolab.stanford.edu/~ullman/focs.html)
@@ -11,6 +13,7 @@
 ## UNIX:
 1. [Principia Softwarica](https://principia-softwarica.org)
 2. [Historical UNIX sources by Spinellis](https://github.com/dspinellis/unix-history-repo)
+3. [Plan 9 from Bell Labs](https://plan9.io/plan9)
 
 ## LISP:
 1. [Structure and Interpretation of Computer Programs](https://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/6515/sicp.zip/index.html)
@@ -37,7 +40,7 @@
 ## JavaScript:
 1. [Douglas Crockford](https://www.crockford.com/javascript)
 
-## Statistics:
+## ML and Statistics:
 1. [Information Theory, Inference, and Learning Algorithms](https://www.inference.org.uk/mackay/itila)
 
 ## Varia:
