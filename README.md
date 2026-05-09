@@ -28,6 +28,7 @@
 1. [Structure and Interpretation of Computer Programs](https://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/6515/sicp.zip/index.html)
 2. [Simply Scheme](https://people.eecs.berkeley.edu/~bh/ss-toc2.html)
 3. [The Roots of LISP](https://paulgraham.com/rootsoflisp.html)
+4. [SectorLISP](https://justine.lol/sectorlisp2)
 
 ## FORTH:
 1. [Forth writes itself](https://ratfactor.com/forth/the_programming_language_that_writes_itself.html)
