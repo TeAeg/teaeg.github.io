@@ -10,6 +10,15 @@
 ## Computer Science:
 1. [Foundations of Computer Science](http://infolab.stanford.edu/~ullman/focs.html)
 
+## Programming:
+1. [Russ Cox](https://research.swtch.com)
+
+## JavaScript:
+1. [Douglas Crockford](https://www.crockford.com/javascript)
+
+## ML and Statistics:
+1. [Information Theory, Inference, and Learning Algorithms](https://www.inference.org.uk/mackay/itila)
+
 ## UNIX:
 1. [Principia Softwarica](https://principia-softwarica.org)
 2. [Historical UNIX sources by Spinellis](https://github.com/dspinellis/unix-history-repo)
@@ -38,12 +47,6 @@
 
 ## Processor Architecture:
 1. [Collection of ISA documents](https://docs.alexrp.com)
-
-## JavaScript:
-1. [Douglas Crockford](https://www.crockford.com/javascript)
-
-## ML and Statistics:
-1. [Information Theory, Inference, and Learning Algorithms](https://www.inference.org.uk/mackay/itila)
 
 ## Varia:
 1. [Markdown](https://daringfireball.net/projects/markdown)
