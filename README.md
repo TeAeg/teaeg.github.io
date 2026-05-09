@@ -12,12 +12,17 @@
 
 ## Programming:
 1. [Russ Cox](https://research.swtch.com)
+2. [Phil Eaton](https://eatonphil.com)
 
 ## JavaScript:
 1. [Douglas Crockford](https://www.crockford.com/javascript)
 
 ## ML and Statistics:
 1. [Information Theory, Inference, and Learning Algorithms](https://www.inference.org.uk/mackay/itila)
+2. [The Elements of Statistical Learning](https://hastie.su.domains/ElemStatLearn)
+
+## Operating Systems:
+1. [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP)
 
 ## UNIX:
 1. [Principia Softwarica](https://principia-softwarica.org)
