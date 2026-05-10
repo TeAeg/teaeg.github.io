@@ -55,8 +55,9 @@
 1. [Sun System Handbook v3.4](https://dogemicrosystems.ca/pub/Sun/System_Handbook/Sun_syshbk_V3.4/index.html)
 2. [Tribblix](https://www.tribblix.org)
 
-## Processor Architecture:
+## Computer Architecture:
 1. [Collection of ISA documents](https://docs.alexrp.com)
+2. [Capability-Based Computer Systems](https://homes.cs.washington.edu/~levy/capabook/index.html)
 
 ## Varia:
 1. [Markdown](https://daringfireball.net/projects/markdown)
