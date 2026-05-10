@@ -14,6 +14,9 @@
 1. [Russ Cox](https://research.swtch.com)
 2. [Phil Eaton](https://eatonphil.com)
 
+## C and C++:
+1. [Let's Build a Compiler](https://compilers.iecc.com/crenshaw)
+
 ## JavaScript:
 1. [Douglas Crockford](https://www.crockford.com/javascript)
 
