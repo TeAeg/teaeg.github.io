@@ -1,4 +1,3 @@
-# My collection of links on various topics
 ## Hacking:
 1. [Hacker News](https://news.ycombinator.com)
 2. [Lobste.rs](https://lobste.rs)
