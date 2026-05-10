@@ -13,9 +13,10 @@
 ## Programming:
 1. [Russ Cox](https://research.swtch.com)
 2. [Phil Eaton](https://eatonphil.com)
+3. [Let's Build a Compiler](https://compilers.iecc.com/crenshaw)
 
 ## C and C++:
-1. [Let's Build a Compiler](https://compilers.iecc.com/crenshaw)
+1. [Early history of C++](https://softwarepreservation.computerhistory.org/c_plus_plus)
 
 ## JavaScript:
 1. [Douglas Crockford](https://www.crockford.com/javascript)
