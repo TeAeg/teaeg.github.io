@@ -1,10 +1,9 @@
 ## Hacking:
 1. [Hacker News](https://news.ycombinator.com)
 2. [Lobste.rs](https://lobste.rs)
-3. [Phrack](https://phrack.org/news)
-4. [The Hacker Crackdown](https://www.gutenberg.org/ebooks/101)
-5. [Virtually Fun](https://virtuallyfun.com)
-6. [OSnews](https://www.osnews.com)
+3. [The Hacker Crackdown](https://www.gutenberg.org/ebooks/101)
+4. [Virtually Fun](https://virtuallyfun.com)
+5. [OSnews](https://www.osnews.com)
 
 ## Computer Science:
 1. [Foundations of Computer Science](http://infolab.stanford.edu/~ullman/focs.html)
@@ -58,6 +57,10 @@
 ## Computer Architecture:
 1. [Collection of ISA documents](https://docs.alexrp.com)
 2. [Capability-Based Computer Systems](https://homes.cs.washington.edu/~levy/capabook/index.html)
+
+## Zines:
+1. [BYTE](https://www.worldradiohistory.com/Byte_Magazine.htm)
+2. [Phrack](https://phrack.org/news)
 
 ## Varia:
 1. [Markdown](https://daringfireball.net/projects/markdown)
