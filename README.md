@@ -46,7 +46,8 @@
 ## Retrocomputing:
 1. [Old Vintage Computing Research](https://oldvcr.blogspot.com)
 2. [DOOM Black Book](https://fabiensanglard.net/gebbdoom)
-3. [Computers Are Bad](https://computer.rip)
+3. [DOOM Wiki](https://doomwiki.org)
+4. [Computers Are Bad](https://computer.rip)
 
 ## HP PA-RISC:
 1. [OpenPA](https://www.openpa.net)
