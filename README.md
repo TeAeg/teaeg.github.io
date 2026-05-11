@@ -7,6 +7,8 @@
 
 ## Computer Science:
 1. [Foundations of Computer Science](http://infolab.stanford.edu/~ullman/focs.html)
+2. [Programming Language Concepts](https://itu.dk/~sestoft/plc)
+3. [Static Program Analysis](https://cs.au.dk/~amoeller/spa)
 
 ## Programming:
 1. [Russ Cox](https://research.swtch.com)
@@ -14,8 +16,6 @@
 3. [Let's Build a Compiler](https://compilers.iecc.com/crenshaw)
 4. [Richard Gabriel](https://www.dreamsongs.com/index.html)
 5. [Linkers and Loaders](https://linker.iecc.com)
-6. [Programming Language Concepts](https://itu.dk/~sestoft/plc)
-7. [Static Program Analysis](https://cs.au.dk/~amoeller/spa)
 
 ## C and C++:
 1. [Early history of C++](https://softwarepreservation.computerhistory.org/c_plus_plus)
