@@ -28,6 +28,7 @@
 1. [Information Theory, Inference, and Learning Algorithms](https://www.inference.org.uk/mackay/itila)
 2. [The Elements of Statistical Learning](https://hastie.su.domains/ElemStatLearn)
 3. [Pattern Recognition and Machine Learning](https://prml.github.io)
+4. [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3)
 
 ## Operating Systems:
 1. [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP)
