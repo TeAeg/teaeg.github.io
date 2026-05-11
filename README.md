@@ -13,6 +13,7 @@
 2. [Phil Eaton](https://eatonphil.com)
 3. [Let's Build a Compiler](https://compilers.iecc.com/crenshaw)
 4. [Richard Gabriel](https://www.dreamsongs.com/index.html)
+5. [John Levine](https://www.johnlevine.com)
 
 ## C and C++:
 1. [Early history of C++](https://softwarepreservation.computerhistory.org/c_plus_plus)
@@ -49,6 +50,7 @@
 3. [DOOM Wiki](https://doomwiki.org)
 4. [Computers Are Bad](https://computer.rip)
 5. [PDP-11](https://gunkies.org/wiki/PDP-11)
+6. [Usenet Archive](https://usenet.trashworldnews.com)
 
 ## HP PA-RISC:
 1. [OpenPA](https://www.openpa.net)
