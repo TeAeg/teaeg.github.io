@@ -48,6 +48,7 @@
 2. [DOOM Black Book](https://fabiensanglard.net/gebbdoom)
 3. [DOOM Wiki](https://doomwiki.org)
 4. [Computers Are Bad](https://computer.rip)
+5. [PDP-11](https://gunkies.org/wiki/PDP-11)
 
 ## HP PA-RISC:
 1. [OpenPA](https://www.openpa.net)
