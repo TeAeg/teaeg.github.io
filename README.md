@@ -16,6 +16,7 @@
 
 ## C and C++:
 1. [Early history of C++](https://softwarepreservation.computerhistory.org/c_plus_plus)
+2. [C++ FQA](https://yosefk.com/c++fqa)
 
 ## JavaScript:
 1. [Douglas Crockford](https://www.crockford.com/javascript)
