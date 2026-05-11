@@ -44,7 +44,9 @@
 2. [Simply Scheme](https://people.eecs.berkeley.edu/~bh/ss-toc2.html)
 3. [The Roots of LISP](https://paulgraham.com/rootsoflisp.html)
 4. [SectorLISP](https://justine.lol/sectorlisp2)
-5. [Practical Common Lisp](https://gigamonkeys.com/book)
+5. [Komplott](https://github.com/krig/LISP)
+6. [Tinylisp](https://github.com/Robert-van-Engelen/tinylisp)
+7. [Practical Common Lisp](https://gigamonkeys.com/book)
 
 ## FORTH:
 1. [Forth writes itself](https://ratfactor.com/forth/the_programming_language_that_writes_itself.html)
