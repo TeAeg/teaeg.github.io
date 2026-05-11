@@ -12,6 +12,7 @@
 1. [Russ Cox](https://research.swtch.com)
 2. [Phil Eaton](https://eatonphil.com)
 3. [Let's Build a Compiler](https://compilers.iecc.com/crenshaw)
+4. [Richard Gabriel](https://www.dreamsongs.com/index.html)
 
 ## C and C++:
 1. [Early history of C++](https://softwarepreservation.computerhistory.org/c_plus_plus)
