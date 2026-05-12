@@ -93,7 +93,7 @@
 
 
 <br>
-<hr style="width:10000px;padding:20px 0;margin:0 0 40px 0">
+<hr style="width:10000px;margin:0 0 40px 0">
 <br>
 
 
