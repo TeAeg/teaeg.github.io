@@ -92,6 +92,6 @@
 2. [Basic Markdown syntax](https://www.markdownguide.org/basic-syntax)
 
 <br>
-<hr style="width:10000px;margin:-100px;">
+<hr style="width:10000px;margin:0;">
 <br>
 
