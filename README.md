@@ -19,6 +19,7 @@
 6. [Kragen Sitaker](http://canonical.org/~kragen)
 7. [Programming Languages: Application and Interpretation](https://www.plai.org)
 8. [Simon Tatham](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog)
+9. [Peter Norvig](https://norvig.com)
 
 ## C and C++:
 1. [Early history of C++](https://softwarepreservation.computerhistory.org/c_plus_plus)
@@ -52,6 +53,7 @@
 6. [Tinylisp](https://github.com/Robert-van-Engelen/tinylisp)
 7. [Practical Common Lisp](https://gigamonkeys.com/book)
 8. [Build Your Own Lisp](https://www.buildyourownlisp.com)
+9. [Paradigms of Artificial Intelligence Programming](https://github.com/norvig/paip-lisp)
 
 ## FORTH:
 1. [Forth writes itself](https://ratfactor.com/forth/the_programming_language_that_writes_itself.html)
