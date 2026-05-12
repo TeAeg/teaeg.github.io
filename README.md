@@ -70,6 +70,7 @@
 6. [Usenet Archive](https://usenet.trashworldnews.com)
 7. [MSX](https://fms.komkon.org/MSX)
 8. [JP's Retro](https://thejpster.org.uk/retro)
+9. [Downtown Doug Brown](https://www.downtowndougbrown.com)
 
 ## HP PA-RISC:
 1. [OpenPA](https://www.openpa.net)
