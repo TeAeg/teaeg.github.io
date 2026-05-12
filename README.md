@@ -44,6 +44,7 @@
 2. [Historical UNIX sources by Spinellis](https://github.com/dspinellis/unix-history-repo)
 3. [Plan 9 from Bell Labs](https://plan9.io/plan9)
 4. [The Unix Heritage Society](https://wiki.tuhs.org)
+5. [Advanced Programming in the UNIX Environment](https://stevens.netmeister.org/631)
 
 ## LISP:
 1. [Structure and Interpretation of Computer Programs](https://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/6515/sicp.zip/index.html)
