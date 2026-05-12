@@ -47,6 +47,7 @@
 5. [Komplott](https://github.com/krig/LISP)
 6. [Tinylisp](https://github.com/Robert-van-Engelen/tinylisp)
 7. [Practical Common Lisp](https://gigamonkeys.com/book)
+8. [Build Your Own Lisp](https://www.buildyourownlisp.com)
 
 ## FORTH:
 1. [Forth writes itself](https://ratfactor.com/forth/the_programming_language_that_writes_itself.html)
