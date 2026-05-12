@@ -16,6 +16,7 @@
 3. [Let's Build a Compiler](https://compilers.iecc.com/crenshaw)
 4. [Richard Gabriel](https://www.dreamsongs.com/index.html)
 5. [Linkers and Loaders](https://linker.iecc.com)
+6. [Kragen Sitaker](http://canonical.org/~kragen)
 
 ## C and C++:
 1. [Early history of C++](https://softwarepreservation.computerhistory.org/c_plus_plus)
