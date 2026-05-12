@@ -91,7 +91,7 @@
 1. [Markdown](https://daringfireball.net/projects/markdown)
 2. [Basic Markdown syntax](https://www.markdownguide.org/basic-syntax)
 
-<hr>
 <br>
+<hr style="width:10000px;">
 <br>
 
