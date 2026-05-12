@@ -63,6 +63,7 @@
 4. [Computers Are Bad](https://computer.rip)
 5. [PDP-11](https://gunkies.org/wiki/PDP-11)
 6. [Usenet Archive](https://usenet.trashworldnews.com)
+7. [MSX](https://fms.komkon.org/MSX)
 
 ## HP PA-RISC:
 1. [OpenPA](https://www.openpa.net)
