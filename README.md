@@ -56,6 +56,7 @@
 7. [Practical Common Lisp](https://gigamonkeys.com/book)
 8. [Build Your Own Lisp](https://www.buildyourownlisp.com)
 9. [Paradigms of Artificial Intelligence Programming](https://github.com/norvig/paip-lisp)
+10. [On Lisp](https://www.paulgraham.com/onlisp.html)
 
 ## FORTH:
 1. [Forth writes itself](https://ratfactor.com/forth/the_programming_language_that_writes_itself.html)
