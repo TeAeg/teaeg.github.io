@@ -7,3 +7,9 @@ github:
   repository_url: https://github.com/TeAeg/teaeg.github.io
   owner_name: TeAeg
   owner_url: https://github.com/TeAeg
+plugins:
+  - jekyll-last-modified-at
+
+# Optional. The default date format, used if none is specified in the tag.
+last-modified-at:
+    date-format: '%d-%b-%y'
