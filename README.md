@@ -18,6 +18,7 @@
 5. [Linkers and Loaders](https://linker.iecc.com)
 6. [Kragen Sitaker](http://canonical.org/~kragen)
 7. [Programming Languages: Application and Interpretation](https://www.plai.org)
+8. [Simon Tatham](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog)
 
 ## C and C++:
 1. [Early history of C++](https://softwarepreservation.computerhistory.org/c_plus_plus)
@@ -84,4 +85,6 @@
 2. [Basic Markdown syntax](https://www.markdownguide.org/basic-syntax)
 
 <hr>
-{% last_modified_at %}
+<br>
+<br>
+
