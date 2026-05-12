@@ -57,6 +57,7 @@
 
 ## FORTH:
 1. [Forth writes itself](https://ratfactor.com/forth/the_programming_language_that_writes_itself.html)
+2. [My history with Forth & stack machines](https://yosefk.com/blog/my-history-with-forth-stack-machines.html)
 
 ## Retrocomputing:
 1. [Old Vintage Computing Research](https://oldvcr.blogspot.com)
