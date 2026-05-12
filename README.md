@@ -17,6 +17,7 @@
 4. [Richard Gabriel](https://www.dreamsongs.com/index.html)
 5. [Linkers and Loaders](https://linker.iecc.com)
 6. [Kragen Sitaker](http://canonical.org/~kragen)
+7. [Programming Languages: Application and Interpretation](https://www.plai.org)
 
 ## C and C++:
 1. [Early history of C++](https://softwarepreservation.computerhistory.org/c_plus_plus)
@@ -25,7 +26,7 @@
 ## JavaScript:
 1. [Douglas Crockford](https://www.crockford.com/javascript)
 
-## ML, Statistics and Mathematics:
+## Mathematics, Statistics and ML:
 1. [Information Theory, Inference, and Learning Algorithms](https://www.inference.org.uk/mackay/itila)
 2. [The Elements of Statistical Learning](https://hastie.su.domains/ElemStatLearn)
 3. [Pattern Recognition and Machine Learning](https://prml.github.io)
