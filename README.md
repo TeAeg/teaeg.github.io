@@ -34,6 +34,7 @@
 3. [Pattern Recognition and Machine Learning](https://prml.github.io)
 4. [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3)
 5. [SAT/SMT by Example](https://smt.st)
+6. [The Tensor Cookbook](https://tensorcookbook.com)
 
 ## Operating Systems:
 1. [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP)
