@@ -91,10 +91,10 @@
 1. [Markdown](https://daringfireball.net/projects/markdown)
 2. [Basic Markdown syntax](https://www.markdownguide.org/basic-syntax)
 
-<div class="container">
+
 <br>
-<hr style="width:10000px;margin:0;">
+<hr style="width:10000px;padding:20px 0;margin:0 0 40px 0">
 <br>
-</div>
+
 
 
