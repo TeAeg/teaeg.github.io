@@ -5,4 +5,7 @@ defaults:
     scope:
       path: ""
     values:
-      layout: plain
+      layout: mylayout
+mypage:
+  title: Collection of my links
+  author: TeAeg
