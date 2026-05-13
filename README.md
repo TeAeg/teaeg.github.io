@@ -1,3 +1,23 @@
+<HTML>
+<HEAD>
+<TITLE>Collection of links by TeAeg</TITLE>
+<style>
+body {
+	max-width: 85%;
+	margin-left: 7.5%;
+	font-size: large;
+	font-family: serif;
+}
+h1  { color: #000000; font-size: 24px; font-family: "Times New Roman", serif; line-height: 28px; text-align: center; margin-right: 10%; margin-left: 10% }
+h2  { color: #000000; font-size: 20px; font-family: "Times New Roman", serif; line-height: 28px; text-align: center; margin-right: 10%; margin-left: 10% }
+h3  { color: #000000; font-size: 14px; font-family: "Times New Roman", serif; line-height: 18px; text-align: center; margin-right: 10%; margin-left: 10% }
+</style>
+</HEAD>
+<BODY>
+
+<h1>Collection of my links</h1>
+<h3>By TeAeg</h3>
+
 ## Hacking:
 1. [Hacker News](https://news.ycombinator.com)
 2. [Lobste.rs](https://lobste.rs)
@@ -99,8 +119,9 @@
 
 
 <br>
-<hr style="width:10000px;margin:0 0 40px 0">
+<hr style="width:100%;">
 <br>
 
+</body>
 
 
