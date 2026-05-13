@@ -1,6 +1,9 @@
 ---
-title: "Collection of my links"
+title: "Collection of links by TeAeg"
 ---
+# Collection of my links
+### By TeAeg
+
 ## Hacking:
 1. [Hacker News](https://news.ycombinator.com)
 2. [Lobste.rs](https://lobste.rs)
