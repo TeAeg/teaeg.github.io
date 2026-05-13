@@ -1,9 +1,6 @@
 name: Collection of my links
 url: https://teaeg.github.io
-markdown: kramdown
-#
 defaults:
-#   default for pages/posts: layout and permalink ---------
   -
     scope:
       path: ""
