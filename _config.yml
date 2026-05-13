@@ -1,9 +1,11 @@
-title: Collection of my links
-description: By TeAeg
-google_analytics: 
-theme: jekyll-theme-hacker
-show_downloads: false
-github:
-  repository_url: https://github.com/TeAeg/teaeg.github.io
-  owner_name: TeAeg
-  owner_url: https://github.com/TeAeg
+name: Collection of my links
+url: https://teaeg.github.io
+markdown: kramdown
+#
+defaults:
+#   default for pages/posts: layout and permalink ---------
+  -
+    scope:
+      path: ""
+    values:
+      layout: plain
