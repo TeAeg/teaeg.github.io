@@ -20,6 +20,7 @@
 4. [Let's Build a Compiler](https://compilers.iecc.com/crenshaw)
 5. [Linkers and Loaders](https://linker.iecc.com)
 6. [Programming Languages: Application and Interpretation](https://www.plai.org)
+7. [Capability-Based Computer Systems](https://homes.cs.washington.edu/~levy/capabook/index.html)
 
 ## UNIX:
 1. [Principia Softwarica](https://principia-softwarica.org)
@@ -54,3 +55,8 @@
 10. [SGI Stuff](http://www.sgistuff.net)
 11. [wfjm's Retro Computing Corner](https://wfjm.github.io)
 12. [The House of Moth](https://thehouseofmoth.com)
+
+## Zines:
+1. [BYTE](https://www.worldradiohistory.com/Byte_Magazine.htm)
+2. [Phrack](https://phrack.org/news)
+3. [Dr. Dobb's](https://jacobfilipp.com/DrDobbs/start.htm)
