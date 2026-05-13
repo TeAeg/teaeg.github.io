@@ -6,6 +6,6 @@ defaults:
       path: ""
     values:
       layout: mylayout
-mypage:
-  title: "Collection of my links"
-  author: TeAeg
+my:
+  title: "Collection of links"
+  subtitle: "By TeAeg"
