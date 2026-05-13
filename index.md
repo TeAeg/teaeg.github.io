@@ -1,6 +1,3 @@
----
-title: "Collection of links by TeAeg"
----
 ## Hacking:
 1. [Hacker News](https://news.ycombinator.com)
 2. [Lobste.rs](https://lobste.rs)
@@ -44,3 +41,16 @@ title: "Collection of links by TeAeg"
 10. [On Lisp](https://www.paulgraham.com/onlisp.html)
 11. [LISP History Collection](https://softwarepreservation.computerhistory.org/LISP)
 
+## Retrocomputing:
+1. [Old Vintage Computing Research](https://oldvcr.blogspot.com)
+2. [DOOM Black Book](https://fabiensanglard.net/gebbdoom)
+3. [DOOM Wiki](https://doomwiki.org)
+4. [Computers Are Bad](https://computer.rip)
+5. [PDP-11](https://gunkies.org/wiki/PDP-11)
+6. [Usenet Archive](https://usenet.trashworldnews.com)
+7. [MSX](https://fms.komkon.org/MSX)
+8. [JP's Retro](https://thejpster.org.uk/retro)
+9. [Downtown Doug Brown](https://www.downtowndougbrown.com)
+10. [SGI Stuff](http://www.sgistuff.net)
+11. [wfjm's Retro Computing Corner](https://wfjm.github.io)
+12. [The House of Moth](https://thehouseofmoth.com)
