@@ -18,105 +18,14 @@ h3  { color: #000000; font-size: 14px; font-family: "Times New Roman", serif; li
 <h1>Collection of my links</h1>
 <h3>By TeAeg</h3>
 
-## Hacking:
-1. [Hacker News](https://news.ycombinator.com)
-2. [Lobste.rs](https://lobste.rs)
-3. [The Hacker Crackdown](https://www.gutenberg.org/ebooks/101)
-4. [Virtually Fun](https://virtuallyfun.com)
-5. [OSnews](https://www.osnews.com)
-
-## Computer Science:
-1. [Foundations of Computer Science](http://infolab.stanford.edu/~ullman/focs.html)
-2. [Programming Language Concepts](https://itu.dk/~sestoft/plc)
-3. [Static Program Analysis](https://cs.au.dk/~amoeller/spa)
-
-## Programming:
-1. [Russ Cox](https://research.swtch.com)
-2. [Phil Eaton](https://eatonphil.com)
-3. [Let's Build a Compiler](https://compilers.iecc.com/crenshaw)
-4. [Richard Gabriel](https://www.dreamsongs.com/index.html)
-5. [Linkers and Loaders](https://linker.iecc.com)
-6. [Kragen Sitaker](http://canonical.org/~kragen)
-7. [Programming Languages: Application and Interpretation](https://www.plai.org)
-8. [Simon Tatham](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog)
-9. [Peter Norvig](https://norvig.com)
-
-## C and C++:
-1. [Early history of C++](https://softwarepreservation.computerhistory.org/c_plus_plus)
-2. [C++ FQA](https://yosefk.com/c++fqa)
-
-## JavaScript:
-1. [Douglas Crockford](https://www.crockford.com/javascript)
-
-## Mathematics, Statistics and ML:
-1. [Information Theory, Inference, and Learning Algorithms](https://www.inference.org.uk/mackay/itila)
-2. [The Elements of Statistical Learning](https://hastie.su.domains/ElemStatLearn)
-3. [Pattern Recognition and Machine Learning](https://prml.github.io)
-4. [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3)
-5. [SAT/SMT by Example](https://smt.st)
-6. [The Tensor Cookbook](https://tensorcookbook.com)
-
-## Operating Systems:
-1. [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP)
-
-## UNIX:
-1. [Principia Softwarica](https://principia-softwarica.org)
-2. [Historical UNIX sources by Spinellis](https://github.com/dspinellis/unix-history-repo)
-3. [Plan 9 from Bell Labs](https://plan9.io/plan9)
-4. [The Unix Heritage Society](https://wiki.tuhs.org)
-5. [Advanced Programming in the UNIX Environment](https://stevens.netmeister.org/631)
-
-## LISP:
-1. [Structure and Interpretation of Computer Programs](https://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/6515/sicp.zip/index.html)
-2. [Simply Scheme](https://people.eecs.berkeley.edu/~bh/ss-toc2.html)
-3. [The Roots of LISP](https://paulgraham.com/rootsoflisp.html)
-4. [SectorLISP](https://justine.lol/sectorlisp2)
-5. [Komplott](https://github.com/krig/LISP)
-6. [Tinylisp](https://github.com/Robert-van-Engelen/tinylisp)
-7. [Practical Common Lisp](https://gigamonkeys.com/book)
-8. [Build Your Own Lisp](https://www.buildyourownlisp.com)
-9. [Paradigms of Artificial Intelligence Programming](https://github.com/norvig/paip-lisp)
-10. [On Lisp](https://www.paulgraham.com/onlisp.html)
-11. [LISP History Collection](https://softwarepreservation.computerhistory.org/LISP)
-
-## FORTH:
-1. [Forth writes itself](https://ratfactor.com/forth/the_programming_language_that_writes_itself.html)
-2. [My history with Forth & stack machines](https://yosefk.com/blog/my-history-with-forth-stack-machines.html)
-
-## Retrocomputing:
-1. [Old Vintage Computing Research](https://oldvcr.blogspot.com)
-2. [DOOM Black Book](https://fabiensanglard.net/gebbdoom)
-3. [DOOM Wiki](https://doomwiki.org)
-4. [Computers Are Bad](https://computer.rip)
-5. [PDP-11](https://gunkies.org/wiki/PDP-11)
-6. [Usenet Archive](https://usenet.trashworldnews.com)
-7. [MSX](https://fms.komkon.org/MSX)
-8. [JP's Retro](https://thejpster.org.uk/retro)
-9. [Downtown Doug Brown](https://www.downtowndougbrown.com)
-10. [SGI Stuff](http://www.sgistuff.net)
-11. [wfjm's Retro Computing Corner](https://wfjm.github.io)
-12. [The House of Moth](https://thehouseofmoth.com)
-
-## HP PA-RISC:
-1. [OpenPA](https://www.openpa.net)
-2. [Linux on PA-RISC](https://parisc.docs.kernel.org)
-
-## Sun SPARC:
-1. [Sun System Handbook v3.4](https://dogemicrosystems.ca/pub/Sun/System_Handbook/Sun_syshbk_V3.4/index.html)
-2. [Tribblix](https://www.tribblix.org)
-
-## Computer Architecture:
-1. [Collection of ISA documents](https://docs.alexrp.com)
-2. [Capability-Based Computer Systems](https://homes.cs.washington.edu/~levy/capabook/index.html)
-
-## Zines:
-1. [BYTE](https://www.worldradiohistory.com/Byte_Magazine.htm)
-2. [Phrack](https://phrack.org/news)
-
-## Varia:
-1. [Markdown](https://daringfireball.net/projects/markdown)
-2. [Basic Markdown syntax](https://www.markdownguide.org/basic-syntax)
-
+<h2>Hacking:</h2>
+<ol>
+<li> <a href="https://news.ycombinator.com">Hacker News</a> </li>
+<li> <a href="https://lobste.rs">Lobste.rs</a> </li>
+<li> <a href="https://www.gutenberg.org/ebooks/101">The Hacker Crackdown</a> </li>
+<li> <a href="https://virtuallyfun.com">Virtually Fun</a> </li>
+<li> <a href="https://www.osnews.com">OSnews</a> </li>
+</ol>
 
 <br>
 <hr style="width:100%;">
