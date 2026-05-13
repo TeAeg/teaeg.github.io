@@ -12,6 +12,8 @@
 4. [Kragen Sitaker](http://canonical.org/~kragen)
 5. [Simon Tatham](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog)
 6. [Peter Norvig](https://norvig.com)
+7. [Douglas Crockford](https://www.crockford.com)
+8. [Yossi Kreinin](https://yosefk.com)
 
 ## Textbooks and Tutorials:
 1. [Foundations of Computer Science](http://infolab.stanford.edu/~ullman/focs.html)
