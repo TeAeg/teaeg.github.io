@@ -7,5 +7,5 @@ defaults:
     values:
       layout: mylayout
 mypage:
-  title: Collection of my links
+  title: "Collection of my links"
   author: TeAeg
