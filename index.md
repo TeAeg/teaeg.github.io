@@ -21,6 +21,7 @@
 5. [Linkers and Loaders](https://linker.iecc.com)
 6. [Programming Languages: Application and Interpretation](https://www.plai.org)
 7. [Capability-Based Computer Systems](https://homes.cs.washington.edu/~levy/capabook/index.html)
+8. [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP)
 
 ## UNIX:
 1. [Principia Softwarica](https://principia-softwarica.org)
@@ -60,3 +61,13 @@
 1. [BYTE](https://www.worldradiohistory.com/Byte_Magazine.htm)
 2. [Phrack](https://phrack.org/news)
 3. [Dr. Dobb's](https://jacobfilipp.com/DrDobbs/start.htm)
+
+## Mathematics, Statistics and ML:
+1. [Information Theory, Inference, and Learning Algorithms](https://www.inference.org.uk/mackay/itila)
+2. [The Elements of Statistical Learning](https://hastie.su.domains/ElemStatLearn)
+3. [Pattern Recognition and Machine Learning](https://prml.github.io)
+4. [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3)
+5. [SAT/SMT by Example](https://smt.st)
+6. [The Tensor Cookbook](https://tensorcookbook.com)
+
+
