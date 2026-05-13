@@ -74,6 +74,8 @@
 8. [JP's Retro](https://thejpster.org.uk/retro)
 9. [Downtown Doug Brown](https://www.downtowndougbrown.com)
 10. [SGI Stuff](http://www.sgistuff.net)
+11. [wfjm's Retro Computing Corner](https://wfjm.github.io)
+12. [The House of Moth](https://thehouseofmoth.com)
 
 ## HP PA-RISC:
 1. [OpenPA](https://www.openpa.net)
