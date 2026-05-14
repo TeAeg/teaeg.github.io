@@ -15,6 +15,7 @@
 6. [Peter Norvig](https://norvig.com)
 7. [Douglas Crockford](https://www.crockford.com)
 8. [Yossi Kreinin](https://yosefk.com)
+9. [Andy Wingo](https://www.wingolog.org)
 
 ## Textbooks and Tutorials:
 1. [Foundations of Computer Science](http://infolab.stanford.edu/~ullman/focs.html)
