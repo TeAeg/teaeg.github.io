@@ -45,6 +45,7 @@
 9. [Paradigms of Artificial Intelligence Programming](https://github.com/norvig/paip-lisp)
 10. [On Lisp](https://www.paulgraham.com/onlisp.html)
 11. [LISP History Collection](https://softwarepreservation.computerhistory.org/LISP)
+12. [Make a Lisp](https://github.com/kanaka/mal)
 
 ## Retrocomputing:
 1. [Old Vintage Computing Research](https://oldvcr.blogspot.com)
