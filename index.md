@@ -4,6 +4,7 @@
 3. [The Hacker Crackdown](https://www.gutenberg.org/ebooks/101)
 4. [Virtually Fun](https://virtuallyfun.com)
 5. [OSnews](https://www.osnews.com)
+6. [Rosetta Code](https://rosettacode.org)
 
 ## Blogs on Programming:
 1. [Russ Cox](https://research.swtch.com)
