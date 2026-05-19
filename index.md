@@ -16,6 +16,7 @@
 7. [Douglas Crockford](https://www.crockford.com)
 8. [Yossi Kreinin](https://yosefk.com)
 9. [Andy Wingo](https://www.wingolog.org)
+10. [Fabien Sanglard](https://fabiensanglard.net)
 
 ## Textbooks and Tutorials:
 1. [Foundations of Computer Science](http://infolab.stanford.edu/~ullman/focs.html)
@@ -63,6 +64,8 @@
 10. [SGI Stuff](http://www.sgistuff.net)
 11. [wfjm's Retro Computing Corner](https://wfjm.github.io)
 12. [The House of Moth](https://thehouseofmoth.com)
+13. [OpenPA](https://www.openpa.net)
+14. [Sun System Handbook v3.4](https://www.dogemicrosystems.ca/pub/Sun/System_Handbook/Sun_syshbk_V3.4/Systems/index.html)
 
 ## Zines:
 1. [BYTE](https://www.worldradiohistory.com/Byte_Magazine.htm)
