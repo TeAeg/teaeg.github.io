@@ -17,6 +17,7 @@
 8. [Yossi Kreinin](https://yosefk.com)
 9. [Andy Wingo](https://www.wingolog.org)
 10. [Fabien Sanglard](https://fabiensanglard.net)
+11. [Dave Gauer](https://ratfactor.com)
 
 ## Textbooks and Tutorials:
 1. [Foundations of Computer Science](http://infolab.stanford.edu/~ullman/focs.html)
