@@ -29,6 +29,7 @@
 7. [Capability-Based Computer Systems](https://homes.cs.washington.edu/~levy/capabook/index.html)
 8. [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP)
 9. [Rosetta Code](https://rosettacode.org)
+10. [Stack Computers: The New Wave](https://users.ece.cmu.edu/~koopman/stack_computers/index.html)
 
 ## UNIX:
 1. [Principia Softwarica](https://principia-softwarica.org)
