@@ -71,6 +71,7 @@
 13. [OpenPA](https://www.openpa.net)
 14. [Sun System Handbook v3.4](https://www.dogemicrosystems.ca/pub/Sun/System_Handbook/Sun_syshbk_V3.4/Systems/index.html)
 15. [Ardent Tool of Capitalism](https://www.ardent-tool.com)
+16. [C++ History Collection](https://softwarepreservation.computerhistory.org/c_plus_plus)
 
 ## Zines:
 1. [BYTE](https://www.worldradiohistory.com/Byte_Magazine.htm)
