@@ -4,7 +4,6 @@
 3. [The Hacker Crackdown](https://www.gutenberg.org/ebooks/101)
 4. [Virtually Fun](https://virtuallyfun.com)
 5. [OSnews](https://www.osnews.com)
-6. [What Programmer Should Know About Memory](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf)
 
 ## Blogs on Programming:
 1. [Russ Cox](https://research.swtch.com)
@@ -31,6 +30,7 @@
 8. [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP)
 9. [Rosetta Code](https://rosettacode.org)
 10. [Stack Computers: The New Wave](https://users.ece.cmu.edu/~koopman/stack_computers/index.html)
+11. [What Programmer Should Know About Memory](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf)
 
 ## UNIX:
 1. [Principia Softwarica](https://principia-softwarica.org)
