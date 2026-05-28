@@ -31,6 +31,8 @@
 9. [Rosetta Code](https://rosettacode.org)
 10. [Stack Computers: The New Wave](https://users.ece.cmu.edu/~koopman/stack_computers/index.html)
 11. [What Programmer Should Know About Memory](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf)
+12. [Beej's Guides](https://beej.us/guide)
+13. [Agner Fog](https://www.agner.org/optimize)
 
 ## UNIX:
 1. [Principia Softwarica](https://principia-softwarica.org)
