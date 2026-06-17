@@ -74,9 +74,10 @@
 11. [wfjm's Retro Computing Corner](https://wfjm.github.io)
 12. [The House of Moth](https://thehouseofmoth.com)
 13. [OpenPA](https://www.openpa.net)
-14. [Sun System Handbook v3.4](https://www.dogemicrosystems.ca/pub/Sun/System_Handbook/Sun_syshbk_V3.4/Systems/index.html)
-15. [Ardent Tool of Capitalism](https://www.ardent-tool.com)
-16. [C++ History Collection](https://softwarepreservation.computerhistory.org/c_plus_plus)
+14. [Linux on PA-RISC](https://parisc.docs.kernel.org)
+15. [Sun System Handbook v3.4](https://www.dogemicrosystems.ca/pub/Sun/System_Handbook/Sun_syshbk_V3.4/Systems/index.html)
+16. [Ardent Tool of Capitalism](https://www.ardent-tool.com)
+17. [C++ History Collection](https://softwarepreservation.computerhistory.org/c_plus_plus)
 
 ## Zines:
 1. [BYTE](https://www.worldradiohistory.com/Byte_Magazine.htm)
