@@ -36,6 +36,7 @@
 12. [Beej's Guides](https://beej.us/guide)
 13. [Agner Fog](https://www.agner.org/optimize)
 14. [Data Structures & Algorithm Analysis](https://people.cs.vt.edu/~shaffer/Book)
+15. [Data Compression Explained](https://mattmahoney.net/dc/dce.html)
 
 ## UNIX:
 1. [Principia Softwarica](https://principia-softwarica.org)
