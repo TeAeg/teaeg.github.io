@@ -76,7 +76,7 @@
 12. [The House of Moth](https://thehouseofmoth.com)
 13. [OpenPA](https://www.openpa.net)
 14. [Linux on PA-RISC](https://parisc.docs.kernel.org)
-15. [Sun System Handbook v3.4](https://www.dogemicrosystems.ca/pub/Sun/System_Handbook/Sun_syshbk_V3.4/Systems/index.html)
+15. [Sun System Handbook v3.4](https://dogemicrosystems.ca/pub/Sun/System_Handbook/Sun_syshbk_V3.4/Systems/index.html)
 16. [Ardent Tool of Capitalism](https://www.ardent-tool.com)
 17. [C++ History Collection](https://softwarepreservation.computerhistory.org/c_plus_plus)
 
