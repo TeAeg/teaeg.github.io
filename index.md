@@ -79,6 +79,7 @@
 15. [Sun System Handbook v3.4](https://dogemicrosystems.ca/pub/Sun/System_Handbook/Sun_syshbk_V3.4/Systems/index.html)
 16. [Ardent Tool of Capitalism](https://www.ardent-tool.com)
 17. [C++ History Collection](https://softwarepreservation.computerhistory.org/c_plus_plus)
+18. [Power Mac G5 CPU upgrade](https://youtu.be/aW559f6IRas)
 
 ## Zines:
 1. [BYTE](https://www.worldradiohistory.com/Byte_Magazine.htm)
