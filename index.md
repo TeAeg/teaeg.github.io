@@ -94,5 +94,6 @@
 4. [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3)
 5. [SAT/SMT by Example](https://smt.st)
 6. [The Tensor Cookbook](https://tensorcookbook.com)
+7. [Linear Algebra Done Right](https://linear.axler.net)
 
 
