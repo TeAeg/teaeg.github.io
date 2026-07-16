@@ -82,6 +82,7 @@
 17. [C++ History Collection](https://softwarepreservation.computerhistory.org/c_plus_plus)
 18. [Power Mac G5 CPU upgrade](https://youtu.be/aW559f6IRas)
 19. [PS2 Developer Wiki](https://www.psdevwiki.com/ps2)
+20. [HP Journal Archive 1948-1998](https://hparchive.com/hp_journals)
 
 ## Zines:
 1. [BYTE](https://www.worldradiohistory.com/Byte_Magazine.htm)
