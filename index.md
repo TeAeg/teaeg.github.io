@@ -99,5 +99,6 @@
 6. [The Tensor Cookbook](https://tensorcookbook.com)
 7. [Linear Algebra Done Right](https://linear.axler.net)
 8. [Mathematics of Data Science](https://arxiv.org/abs/2607.11938)
+9. [Introduction to Probability](https://math.dartmouth.edu/~prob/prob/prob.pdf)
 
 
