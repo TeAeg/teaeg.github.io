@@ -62,6 +62,7 @@
 11. [LISP History Collection](https://softwarepreservation.computerhistory.org/LISP)
 12. [Make a Lisp](https://github.com/kanaka/mal)
 13. [Let Over Lambda](https://letoverlambda.com)
+14. [Common Lisp](https://www.cs.cmu.edu/~dst/LispBook)
 
 ## Retrocomputing:
 1. [Old Vintage Computing Research](https://oldvcr.blogspot.com)
