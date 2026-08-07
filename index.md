@@ -85,7 +85,6 @@
 16. [Fundamentals of Wireless Communication](https://web.stanford.edu/~dntse/wireless_book.html)
 17. [The Hacker Crackdown](https://www.gutenberg.org/ebooks/101)
 
-
 ## Zines:
 1. [BYTE](https://www.worldradiohistory.com/Byte_Magazine.htm)
 2. [Phrack](https://phrack.org/news)
