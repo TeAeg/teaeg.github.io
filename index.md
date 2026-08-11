@@ -34,6 +34,7 @@
 5. [Advanced Programming in the UNIX Environment](https://stevens.netmeister.org/631)
 6. [The Art of Unix Programming](https://www.catb.org/~esr/writings/taoup/html)
 7. [The TTY Demystified](https://www.linusakesson.net/programming/tty)
+8. [Dennis M. Ritchie](https://9p.io/who/dmr/index.html)
 
 ## LISP:
 1. [Structure and Interpretation of Computer Programs](https://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/6515/sicp.zip/index.html)
