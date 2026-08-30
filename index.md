@@ -90,6 +90,8 @@
 1. [BYTE](https://www.worldradiohistory.com/Byte_Magazine.htm)
 2. [Phrack](https://phrack.org/news)
 3. [Dr. Dobb's](https://jacobfilipp.com/DrDobbs/start.htm)
+4. [Paged Out!](https://pagedout.institute)
+5. [Tmp.0ut](https://tmpout.sh)
 
 ## Mathematics, Statistics and ML:
 1. [Information Theory, Inference, and Learning Algorithms](https://www.inference.org.uk/mackay/itila)
