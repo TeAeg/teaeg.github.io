@@ -3,7 +3,6 @@
 2. [Lobste.rs](https://lobste.rs)
 3. [Virtually Fun](https://virtuallyfun.com)
 4. [OSnews](https://www.osnews.com)
-5. [Temp](https://raw.githubusercontent.com/Booleans/statistical-rethinking/refs/heads/master/Statistical%20Rethinking%202nd%20Edition.pdf)
 
 ## Retrocomputing:
 1. [Old Vintage Computing Research](https://oldvcr.blogspot.com)
