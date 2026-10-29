@@ -105,5 +105,6 @@
 8. [Mathematics of Data Science](https://arxiv.org/abs/2607.11938)
 9. [Introduction to Probability](https://math.dartmouth.edu/~prob/prob/prob.pdf)
 10. [Start Doing Graph Theory](https://vertex.degree)
+11. [An Infinite Descent into Pure Mathematics](https://infinitedescent.org)
 
 
