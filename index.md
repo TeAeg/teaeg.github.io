@@ -52,6 +52,8 @@
 13. [Let Over Lambda](https://letoverlambda.com)
 14. [Common Lisp Introduction](https://www.cs.cmu.edu/~dst/LispBook)
 15. [Kilo LISP](https://www.t3x.org/klisp/index.html)
+16. [The Scheme Programming Language](https://www.scheme.com/tspl4)
+17. [A Small Lisp Interpreter](https://www.mail-archive.com/kragen-hacks@canonical.org/msg00164.html)
 
 ## Blogs on Programming:
 1. [Russ Cox](https://research.swtch.com)
