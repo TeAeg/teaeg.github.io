@@ -55,7 +55,7 @@
 16. [The Scheme Programming Language](https://www.scheme.com/tspl4)
 17. [A Small Lisp Interpreter](https://www.mail-archive.com/kragen-hacks@canonical.org/msg00164.html)
 
-## Blogs on Programming:
+## People:
 1. [Russ Cox](https://research.swtch.com)
 2. [Phil Eaton](https://eatonphil.com)
 3. [Richard Gabriel](https://www.dreamsongs.com/index.html)
@@ -69,6 +69,7 @@
 11. [Dave Gauer](https://ratfactor.com)
 12. [Fabrice Bellard](https://bellard.org)
 13. [Paul Graham](https://www.paulgraham.com)
+14. [Seth Bergmann](http://cs.rowan.edu/~bergmann)
 
 ## Textbooks and Tutorials:
 1. [Foundations of Computer Science](http://infolab.stanford.edu/~ullman/focs.html)
