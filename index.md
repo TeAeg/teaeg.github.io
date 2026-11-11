@@ -89,6 +89,7 @@
 15. [Data Compression Explained](https://mattmahoney.net/dc/dce.html)
 16. [Fundamentals of Wireless Communication](https://web.stanford.edu/~dntse/wireless_book.html)
 17. [The Hacker Crackdown](https://www.gutenberg.org/ebooks/101)
+18. [Introduction to Compilers and Language Design](https://dthain.github.io/books/compiler)
 
 ## Zines:
 1. [BYTE](https://www.worldradiohistory.com/Byte_Magazine.htm)
