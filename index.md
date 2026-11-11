@@ -105,7 +105,7 @@
 4. [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3)
 5. [SAT/SMT by Example](https://smt.st)
 6. [The Tensor Cookbook](https://tensorcookbook.com)
-7. [Linear Algebra Done Right](https://linear.axler.net)
+7. [Linear Algebra Done Right](https://link.springer.com/book/10.1007/978-3-031-41026-0)
 8. [Mathematics of Data Science](https://arxiv.org/abs/2607.11938)
 9. [Introduction to Probability](https://math.dartmouth.edu/~prob/prob/prob.pdf)
 10. [Start Doing Graph Theory](https://vertex.degree)
