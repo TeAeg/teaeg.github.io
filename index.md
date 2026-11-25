@@ -25,6 +25,7 @@
 18. [Power Mac G5 CPU upgrade](https://youtu.be/aW559f6IRas)
 19. [PS2 Developer Wiki](https://www.psdevwiki.com/ps2)
 20. [HP Journal Archive 1948-1998](https://hparchive.com/hp_journals)
+21. [OS/2 Museum ](https://www.os2museum.com/wp)
 
 ## UNIX:
 1. [Principia Softwarica](https://principia-softwarica.org)
